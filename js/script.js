@@ -36,7 +36,7 @@ function mensaje ()
 
             if (nombre == false)
           {
-            window.alert(".....")
+            window.alert("Debe ingresar un dato en el campo nombre")
           }
           else
           {
