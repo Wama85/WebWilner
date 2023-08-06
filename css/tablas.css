@@ -1,0 +1,48 @@
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #customers td, #customers th {
+    
+    padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #51415E;
+    color: white;}
+    .hora{
+        background-color: #51415E;
+        color: white;
+        text-align: center;
+    }
+    h4{
+        padding: 20px;
+    }
+    #listacursos ul{
+        text-align: left;
+        
+    }
+    #listacursos h3{
+        text-align: center;
+        padding: 10px;
+        background-color: #51415E;
+        color: #ddd;
+        margin-top: 20px;
+    }
+    #mifoto img{
+        border: 2px solid #51415E;
+        border-radius: 10px;
+        position:absolute;
+        top: 250px;
+    right: 450px;
+    rotate: -20deg;
+    }
